@@ -1,0 +1,32 @@
+{
+  "31337": {
+    "exchange": {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    },
+    "DApp": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "mETH": {
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+    },
+    "mDAI": {
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    },
+    "explorerURL": "#"
+  },
+  "11155111": {
+    "exchange": {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    },
+    "DApp": {
+      "address": "0xfd59BDe20e4D2A0607540B8a5a851BC76715796f"
+    },
+    "mETH": {
+      "address": "0x165E86B47F4a7D4B53181B98d724b74b5F6A13D5"
+    },
+    "mDAI": {
+      "address": "0xD09714166301d98424a1cE8153b5a3F12625eBf1"
+    },
+    "explorerURL": "https://sepolia.etherscan.io/"
+  }
+}
